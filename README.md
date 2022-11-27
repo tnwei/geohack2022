@@ -11,3 +11,5 @@ Compilation of the hard work done by all teams in this hackathon!
 5. `git branch -M main`
 6. `git remote add origin git@github.com:YOUR-GITHUB-USERNAME/geohack2022-team<YOUR-TEAM-NUMBER>.git`
 7. `git push -u origin main`. You will need to set up authentication to your github account here.
+
+Please include an MIT license with your code repo. Don't worry if you aren't familiar with this, we'll help you!
