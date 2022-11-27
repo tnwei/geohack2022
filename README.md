@@ -2,6 +2,9 @@
 
 Compilation of the hard work done by all teams in this hackathon!
 
++ [Team 5: All Is Wells](https://github.com/AnselmAdrian/geohack): DTS well log prediction and missing log data imputation, for well logs with similar intervals
++ [Team 6](https://github.com/maisaramajid/geohack2022-team06)
+
 ## Participant instructions for code submission
 
 1. Set up a `github.com` account, and create a new repository: `geohack2022-team<YOUR-TEAM-NUMBER>` e.g. `geohack2022-team11`. 
