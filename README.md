@@ -2,6 +2,7 @@
 
 Compilation of the hard work done by all teams in this hackathon!
 
++ [Team 2: TriloBYTES](https://github.com/lawmayy/geohack2022-panna-cotta): Blank seismic infill across offsets using convolutional autoencoders
 + [Team 5: All Is Wells](https://github.com/AnselmAdrian/geohack): DTS well log prediction and missing log data imputation, for well logs with similar intervals
 + [Team 6](https://github.com/maisaramajid/geohack2022-team06)
 
