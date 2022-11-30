@@ -3,8 +3,10 @@
 Compilation of the hard work done by all teams in this hackathon!
 
 + [Team 2: TriloBYTES](https://github.com/lawmayy/geohack2022-panna-cotta): Blank seismic infill across offsets using convolutional autoencoders
++ [Team 3: Banana Leaf](https://github.com/haizadtarik/ai-well-top-picker): Machine learning for picking formation tops from well logs
 + [Team 5: All Is Wells](https://github.com/AnselmAdrian/geohack): DTS well log prediction and missing log data imputation, for well logs with similar intervals
-+ [Team 6](https://github.com/maisaramajid/geohack2022-team06)
++ [Team 6: Rock Paper Scissors](https://github.com/maisaramajid/geohack2022-team06)
++ [Team 11: Run Data Run](https://github.com/haikalbaik/GeoHackathon2022)
 
 ## Participant instructions for code submission
 
