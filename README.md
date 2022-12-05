@@ -6,6 +6,7 @@ Compilation of the hard work done by all teams in this hackathon!
 + [Team 3: Banana Leaf](https://github.com/haizadtarik/ai-well-top-picker): Machine learning for picking formation tops from well logs
 + [Team 5: All Is Wells](https://github.com/AnselmAdrian/geohack): DTS well log prediction and missing log data imputation, for well logs with similar intervals
 + [Team 6: Rock Paper Scissors](https://github.com/maisaramajid/geohack2022-team06): Formation classification from well logs
++ [Team 7: Midnight Spirit](https://github.com/MaulHutama14/geohackaton_UTP_PETRONAS): Missing trace infill using pix2pix GAN
 + [Team 11: Run Data Run](https://github.com/haikalbaik/GeoHackathon2022): Formation top prediction with machine learning
 
 ## Participant instructions for code submission
